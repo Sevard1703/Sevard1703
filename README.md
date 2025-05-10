@@ -44,7 +44,7 @@
 
 ---
 
-<p align="center"><img src="https://i.pinimg.com/736x/1e/48/9b/1e489ba06c03ed92dc14bfcb0b2dcaa7.jpg"></p>
+<p align="center"><img src="https://i.pinimg.com/736x/26/8c/38/268c38a3bb747b3777c8bc3ee456f00c.jpg"></p>
 
 ---
 ## 📜 Манифест разработчика-бездельника
