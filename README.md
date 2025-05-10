@@ -33,6 +33,8 @@
 > 📅 Спринт: просрочен ещё до начала  
 
 ---
+<img src="https://github.com/user-attachments/assets/1ea3b3e4-146d-482e-aee7-8f8470737e90">
+---
 
 ## 🏆 Достижения разблокированы
 
