@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/banner.webp" alt="Аниме баннер дня" />
+  <img src="https://i.pinimg.com/736x/88/7f/ba/887fbac4c1e181ef27f904e6c29cba58.jpg" alt="Eren" />
 </p>
 
 ---
@@ -83,3 +83,9 @@ useLifeEffect(() => {
 - Telegram: [@SevardTheFox97](https://t.me/SevardTheFox97)  
 - GitHub: [Sevard1703](https://github.com/Sevard1703)  
 - Email: *будет... когда-нибудь*
+
+---
+
+<p align="center">
+  <img src="https://i.pinimg.com/736x/52/8a/80/528a80c9c74883bde393ba82eb3876c5.jpg">
+</p>
