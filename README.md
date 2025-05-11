@@ -84,7 +84,8 @@ useLifeEffect(() => {
 ## 📫 Связь:
 
 - Telegram: [@SevardTheFox97](https://t.me/SevardTheFox97)  
-- GitHub: [Sevard1703](https://github.com/Sevard1703)  
+- GitHub: [Sevard1703](https://github.com/Sevard1703)
+- Discord: [SevardTheFox](https://discord.com/users/1012339617346887770)  
 - Email: *будет... когда-нибудь*
 
 ---
