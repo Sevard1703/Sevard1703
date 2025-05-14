@@ -105,10 +105,11 @@ const godOfFrontend = () => {
 
 ---
 
-## 🐉 Sevard: Миф или Реальность?
+## 🧬 Футуристическая подпись
 
-> Архивные записи гласят, что он смог собрать проект без `node_modules`.  
-> Современная наука до сих пор сомневается в этом.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=1000&color=F700FF&center=true&vCenter=true&multiline=true&width=600&lines=git+commit+-m+'wake+up%2C+Neo...';T" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -118,10 +119,3 @@ const godOfFrontend = () => {
 
 ---
 
-## 🧬 Футуристическая подпись
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=1000&color=F700FF&center=true&vCenter=true&multiline=true&width=600&lines=git+commit+-m+'wake+up%2C+Neo...';T" alt="Typing SVG" />
-</p>
-
----
