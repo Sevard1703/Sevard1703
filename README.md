@@ -5,10 +5,6 @@
   <img src="https://i.pinimg.com/736x/88/7f/ba/887fbac4c1e181ef27f904e6c29cba58.jpg" alt="Eren" />
 </p>
 
-<p align="center">
-  <img src="https://media.tenor.com/Z3bUo9Y9oF8AAAAC/magic-computer.gif" width="300" />
-</p>
-
 ---
 
 ## ⚡️ Магический Спектр Навыков
