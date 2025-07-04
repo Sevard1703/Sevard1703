@@ -77,7 +77,7 @@ const godOfFrontend = () => {
 ##№ 📼 DevOps говорит, что CI/CD снова упал
 
 <p align="center">
-  <img src="https://media.tenor.com/fzFOgBiyBEgAAAAC/deploy-deployment.gif" width="300" />
+  <img src="https://i.pinimg.com/736x/b4/75/88/b47588b8789fb34cca40dd9183446f91.jpg" width="300" />
 </p>
 
 ---
