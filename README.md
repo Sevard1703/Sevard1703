@@ -109,10 +109,6 @@ const godOfFrontend = () => {
 
 ---
 
-<img width="100%" src="https://github.com/omadli/omadli/raw/master/output/github-contribution-grid-snake.svg" />
-
----
-
 <p align="center">
   <img src="https://i.pinimg.com/736x/52/8a/80/528a80c9c74883bde393ba82eb3876c5.jpg">
 </p>
